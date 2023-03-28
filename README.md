@@ -11,9 +11,9 @@ https://platform.openai.com/
 
 
 # setup python env
-python -m venv env
-source env/bin/activate
-export OPENAI_API_KEY="your api key need to go ghere"
+- python -m venv env
+- source env/bin/activate
+- export OPENAI_API_KEY="your api key need to go ghere"
 
 
 # install python libs 
